@@ -1,0 +1,34 @@
+header{
+    background-color: rgb(76, 76, 197);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    clear: both;
+    background-color: hsl(244, 45%, 48%);
+    color: white;
+    text-align: center
+}
+nav ul a{
+    background-color: #4f53ba;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+*{
+    font-family: Arial;
+}
+.box{
+    border: 2px solid black;
+    padding: 15px;
+    width: 250px;
+    background-color: lightgray;
+    float: right;
+}
+#Top{
+    color: rgba(0, 150, 0, 0.4);
+}
+.menu{
+    color: rgba(0, 150, 0, 0.4);
+}
